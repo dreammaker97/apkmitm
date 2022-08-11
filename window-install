@@ -1,0 +1,5 @@
+Window:
+1.Cài nodejs & npm
+https://nodejs.org/en/download/
+2.Cài apk-mitm
+npm install -g apk-mitm
