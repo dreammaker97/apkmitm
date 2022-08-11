@@ -3,3 +3,6 @@ Window:
 https://nodejs.org/en/download/
 2.Cài apk-mitm
 npm install -g apk-mitm
+3.Run
+(cd to folder)
+apk-mitm name.apk
