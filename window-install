@@ -1,6 +1,7 @@
 Window:
-1.Cài nodejs & npm
+1.Cài nodejs & npm và java
 https://nodejs.org/en/download/
+https://www.java.com/download/ie_manual.jsp
 2.Cài apk-mitm
 npm install -g apk-mitm
 3.Run
